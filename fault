@@ -14,7 +14,7 @@
       "title": "外圈故障（0.007）",
       "readonly": "活动名称二",
       "decs": "这个活动真好玩",
-      "state": "closed",
+      "state": "open",
       "created_at": 1590481162000,
       "update_at": 1590481162000
     },
@@ -23,7 +23,7 @@
       "title": "内圈故障（0.007）",
       "readonly": "活动名称二",
       "decs": "这个活动真好玩",
-      "state": "closed",
+      "state": "open",
       "created_at": 1590481162000,
       "update_at": 1590481162000
     },
@@ -32,7 +32,7 @@
       "title": "滚动体故障（0.007）",
       "readonly": "活动名称二",
       "decs": "这个活动真好玩",
-      "state": "closed",
+      "state": "open",
       "created_at": 1590481162000,
       "update_at": 1590481162000
     },
@@ -41,31 +41,31 @@
       "title": "外圈故障（0.014）",
       "readonly": "活动名称二",
       "decs": "这个活动真好玩",
-      "state": "closed",
+      "state": "open",
       "created_at": 1590481162000,
       "update_at": 1590481162000
     },
     {
       "id": 6,
-      "title": "负载电机",
+      "title": "1",
       "readonly": "活动名称二",
       "decs": "这个活动真好玩",
-      "state": "closed",
+      "state": "open",
       "created_at": 1590481162000,
       "update_at": 1590481162000
     },
     {
       "id": 7,
-      "title": "负载电机",
+      "title": "2",
       "readonly": "活动名称二",
       "decs": "这个活动真好玩",
-      "state": "closed",
+      "state": "open",
       "created_at": 1590481162000,
       "update_at": 1590481162000
     },
     {
       "id": 8,
-      "title": "负载电机",
+      "title": "3",
       "readonly": "活动名称二",
       "decs": "这个活动真好玩",
       "state": "closed",
@@ -74,7 +74,7 @@
     },
     {
       "id": 9,
-      "title": "负载电机",
+      "title": "4",
       "readonly": "活动名称二",
       "decs": "这个活动真好玩",
       "state": "closed",
@@ -83,7 +83,7 @@
     },
     {
       "id": 10,
-      "title": "负载电机",
+      "title": "5",
       "readonly": "活动名称二",
       "decs": "这个活动真好玩",
       "state": "closed",

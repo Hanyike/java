@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "样本长度",
+      "readonly": "活动名称一",
+      "decs": "1024",
+      "state": "closed",
+      "created_at": 1590486176000,
+      "update_at": 1590486176000
+    },
+    {
+      "id": 2,
+      "title": "Shapelet数量",
+      "readonly": "活动名称二",
+      "decs": "50",
+      "state": "closed",
+      "created_at": 1590481162000,
+      "update_at": 1590481162000
+    },
+    {
+      "id": 3,
+      "title": "Shapelet演化图稀疏度",
+      "readonly": "活动名称二",
+      "decs": "0.5",
+      "state": "closed",
+      "created_at": 1590481162000,
+      "update_at": 1590481162000
+    },
+    {
+      "id": 4,
+      "title": "样本近邻数",
+      "readonly": "活动名称二",
+      "decs": "18",
+      "state": "closed",
+      "created_at": 1590481162000,
+      "update_at": 1590481162000
+    }
+  ]
+}

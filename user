@@ -5,7 +5,7 @@
       "title": "admin",
       "readonly": "活动名称一",
       "decs": "这个活动真好玩",
-      "state": "open",
+      "state": "closed",
       "created_at": 1590486176000,
       "update_at": 1590486176000
     },
@@ -14,7 +14,7 @@
       "title": "user",
       "readonly": "活动名称二",
       "decs": "这个活动真好玩",
-      "state": "closed",
+      "state": "open",
       "created_at": 1590481162000,
       "update_at": 1590481162000
     }
